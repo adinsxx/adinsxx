@@ -4,7 +4,7 @@
 - 👯 I’m looking to collaborate on any open source Web Projects
 - 🤔 I’m looking for Software Development Internships for Summer '22. 
 - 📫 How to reach me: 
-  - 🏢 [LinkedIn] (https://www.linkedin.com/in/cmccurrie/)
+  - 🏢 [LinkedIn](https://www.linkedin.com/in/connor-mccurrie/)
 - 😄 Pronouns: He/Him
 - ⚡ Hobbies: 
   - 🏂 Snowboarding 
