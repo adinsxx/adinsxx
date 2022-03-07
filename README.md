@@ -13,5 +13,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=adinsxx&count_private=true&show_icons=true&theme=radical&hide_rank=false" />
 </a>
 <a href="https://github.com/adinsxx/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adinsxx&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra" />
 </a>
