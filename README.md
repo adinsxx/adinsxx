@@ -4,14 +4,17 @@
 - 👯 I’m looking to collaborate on any open source Web Projects
 - 🤔 I’m looking for Software Development Internships for Summer '22. 
 - 📫 How to reach me: 
-  - 🏢 https://www.linkedin.com/in/cmccurrie/
+  - 🏢 [LinkedIn] (https://www.linkedin.com/in/cmccurrie/)
 - 😄 Pronouns: He/Him
 - ⚡ Hobbies: 
   - 🏂 Snowboarding 
   - 🏋️ Weight Lifting
   - 🎮 Video Games
 
-[![Khuyen's github stats](https://github-readme-stats.vercel.app/api?username=adinsxx&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/adinsxx/github-readme-stats)
+[![Connor's github stats](https://github-readme-stats.vercel.app/api?username=adinsxx&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/adinsxx/github-readme-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adinsxx)](https://github.com/adinsxx/github-readme-stats)
 
 Projects I'm currently working on
 
