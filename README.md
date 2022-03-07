@@ -14,4 +14,5 @@
 [![Khuyen's github stats](https://github-readme-stats.vercel.app/api?username=adinsxx&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/adinsxx/github-readme-stats)
 
 Projects I'm currently working on
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adinsxx&repo=PicNic)](https://github.com/BIT-WCTC/PicNic) 
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WCTC&repo=PicNic)](https://github.com/BIT-WCTC/PicNic)
