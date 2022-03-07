@@ -15,4 +15,3 @@
 
 Projects I'm currently working on
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WCTC&repo=PicNic)](https://github.com/BIT-WCTC/PicNic)
